@@ -1,4 +1,4 @@
-# Angular 2 ~~Beta Boilerplate~~ test
+# Angular 2 Beta ~~Boilerplate~~ test
 
 ## Description
 This repository acts as a very simple Angular 2 Beta Boilerplate with which you can get started developing Angular 2 immediately.
